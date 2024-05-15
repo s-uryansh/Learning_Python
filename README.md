@@ -1,7 +1,8 @@
 # Python course
 
-**Day1: 
-**    How to write pthon code , variables , input , debugging 
+**Day1:** 
+
+    How to write pthon code , variables , input , debugging 
 
     Project1: 
         #1. Create a greeting for your program.
@@ -16,8 +17,9 @@
 
     Solution: Project1.py
 
-**Day2:
-**    Data Types , Operations in python , f-string , 
+**Day2:**
+
+   Data Types , Operations in python , f-string , 
 
     Project2:
         #1. Create a tip calculator.
