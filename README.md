@@ -2,7 +2,7 @@
 
 **Day1:** 
 
-    How to write pthon code , variables , input , debugging 
+    Learned: How to write pthon code , variables , input , debugging 
 
     Project1: 
         #1. Create a greeting for your program.
@@ -16,13 +16,15 @@
         #5. Make sure the input cursor shows on a new line:
 
     Solution: Project1.py
+    
+**Day2:** 
 
-**Day2:**
+    Learned: Data Types , Operations in python , f-string 
 
-   Data Types , Operations in python , f-string , 
-
-    Project2:
-        #1. Create a tip calculator.
-        
+    Project1: 
+        Create a tip calculator
 
     Solution: Project2.py
+        
+
+    
