@@ -32,7 +32,8 @@
     Learned: if/else/elif , nested if/else/elif , lower & count function , logical operators
 
     Project: 
-        Make your own "Choose Your Own Adventure" game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
+        Make your own "Choose Your Own Adventure" game. 
+        Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
 
     Solution: Project3.py
         
